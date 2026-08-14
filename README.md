@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/shashican17/leetcode_submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shashican17/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/shashican17/leetcode_submissions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/shashican17/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
 | [0853-car-fleet](https://github.com/shashican17/leetcode_submissions/tree/master/0853-car-fleet) |
 | [1929-concatenation-of-array](https://github.com/shashican17/leetcode_submissions/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shashican17/leetcode_submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shashican17/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shashican17/leetcode_submissions/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/shashican17/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/shashican17/leetcode_submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shashican17/leetcode_submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shashican17/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/shashican17/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
 | [0981-time-based-key-value-store](https://github.com/shashican17/leetcode_submissions/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -67,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shashican17/leetcode_submissions/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/shashican17/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -111,4 +115,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shashican17/leetcode_submissions/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shashican17/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shashican17/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
