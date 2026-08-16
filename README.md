@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/shashican17/leetcode_submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shashican17/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shashican17/leetcode_submissions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/shashican17/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shashican17/leetcode_submissions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/shashican17/leetcode_submissions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/shashican17/leetcode_submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shashican17/leetcode_submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/shashican17/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/shashican17/leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0981-time-based-key-value-store](https://github.com/shashican17/leetcode_submissions/tree/master/0981-time-based-key-value-store) |
 ## Floyd's Cycle Finding Algorithm
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shashican17/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0981-time-based-key-value-store](https://github.com/shashican17/leetcode_submissions/tree/master/0981-time-based-key-value-store) |
 ## Queue
 |  |
@@ -134,4 +137,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shashican17/leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shashican17/leetcode_submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
