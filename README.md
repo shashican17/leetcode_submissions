@@ -143,4 +143,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shashican17/leetcode_submissions/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
