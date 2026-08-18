@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shashican17/leetcode_submissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shashican17/leetcode_submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shashican17/leetcode_submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shashican17/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shashican17/leetcode_submissions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/shashican17/leetcode_submissions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/shashican17/leetcode_submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shashican17/leetcode_submissions/tree/master/0141-linked-list-cycle) |
