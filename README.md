@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shashican17/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/shashican17/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/shashican17/leetcode_submissions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/shashican17/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shashican17/leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -171,8 +172,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shashican17/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/shashican17/leetcode_submissions/tree/master/0022-generate-parentheses) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shashican17/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shashican17/leetcode_submissions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shashican17/leetcode_submissions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
