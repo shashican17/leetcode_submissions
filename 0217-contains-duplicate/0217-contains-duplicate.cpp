@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        set<int> st;
-        for(int i : nums){
-            if(st.find(i) != st.end()){
+        map<int, int> mp;
+        for (int i : nums){
+            if(mp.find(i) != mp.end()){
                 return true;
             }
-            st.insert(i);
+            mp[i] = 1;
         }
         return false;
     }
