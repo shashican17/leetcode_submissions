@@ -31,11 +31,15 @@ public:
                     q.push(node->right);
                 }
                 q.pop();
-                if(flag){
-                    level.push_back(node->val);                    
-                }else{
-                    level.insert(level.begin(), node->val);
-                }
+                level.push_back(node->val);
+                // if(flag){
+                //     level.push_back(node->val);                    
+                // }else{
+                //     level.insert(level.begin(), node->val);
+                // }
+            }
+            if(!flag){
+                reverse(level.begin(), level.end());
             }
             res.push_back(level);
             flag = !flag;
