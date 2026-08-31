@@ -17,7 +17,7 @@ public:
         return res;
     }
 
-    int help(TreeNode* root, int & res){
+    int help(TreeNode* root, int& res){
         if(!root){
             return 0;
         }
@@ -25,7 +25,7 @@ public:
         int lh = help(root->left, res);
         int rh = help(root->right, res);
 
-        res = max(res, lh+rh);
+        res = max(res, lh + rh);
         return 1 + max(lh, rh);
     }
 };
