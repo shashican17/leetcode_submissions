@@ -29,7 +29,7 @@ public:
             return -1;
         }
 
-        if(abs(lh - rh) > 1){
+        if(abs(lh-rh) > 1){
             return -1;
         }
 
