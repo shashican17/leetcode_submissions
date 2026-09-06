@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/shashican17/leetcode_submissions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shashican17/leetcode_submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shashican17/leetcode_submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/shashican17/leetcode_submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shashican17/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shashican17/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shashican17/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashican17/leetcode_submissions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/shashican17/leetcode_submissions/tree/master/0048-rotate-image) |
 ## Design
 |  |
 | ------- |
@@ -265,4 +267,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shashican17/leetcode_submissions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
