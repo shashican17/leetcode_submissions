@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/shashican17/leetcode_submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shashican17/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shashican17/leetcode_submissions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shashican17/leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shashican17/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shashican17/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shashican17/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shashican17/leetcode_submissions/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/shashican17/leetcode_submissions/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
@@ -271,4 +273,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shashican17/leetcode_submissions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/shashican17/leetcode_submissions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
