@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shashican17/leetcode_submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shashican17/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shashican17/leetcode_submissions/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/shashican17/leetcode_submissions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/shashican17/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/shashican17/leetcode_submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shashican17/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shashican17/leetcode_submissions/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/shashican17/leetcode_submissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shashican17/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashican17/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shashican17/leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shashican17/leetcode_submissions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/shashican17/leetcode_submissions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/shashican17/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashican17/leetcode_submissions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/shashican17/leetcode_submissions/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/shashican17/leetcode_submissions/tree/master/0202-happy-number) |
 ## Design
 |  |
 | ------- |
