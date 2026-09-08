@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/shashican17/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shashican17/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shashican17/leetcode_submissions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/shashican17/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shashican17/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shashican17/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shashican17/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/shashican17/leetcode_submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shashican17/leetcode_submissions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/shashican17/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/shashican17/leetcode_submissions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/shashican17/leetcode_submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shashican17/leetcode_submissions/tree/master/0141-linked-list-cycle) |
@@ -274,4 +276,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/shashican17/leetcode_submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shashican17/leetcode_submissions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/shashican17/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
