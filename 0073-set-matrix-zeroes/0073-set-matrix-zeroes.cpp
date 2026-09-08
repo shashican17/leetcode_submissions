@@ -13,18 +13,14 @@ public:
             }
         }
 
-        for(int i=0;i<n;i++){
-            if(r.find(i) != r.end()){
-                for(int j=0;j<m;j++){
-                    matrix[i][j] = 0;
-                }
+        for(int i : r){
+            for(int j=0;j<m;j++){
+                matrix[i][j] = 0;
             }
         }
-        for(int j=0;j<m;j++){
-            if(c.find(j) != c.end()){
-                for(int i=0;i<n;i++){
-                    matrix[i][j] = 0;
-                }
+        for(int j : c){
+            for(int i=0;i<n;i++){
+                matrix[i][j] = 0;
             }
         }
     }
