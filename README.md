@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/shashican17/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shashican17/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shashican17/leetcode_submissions/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/shashican17/leetcode_submissions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/shashican17/leetcode_submissions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shashican17/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shashican17/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
