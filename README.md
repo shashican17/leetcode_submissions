@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/shashican17/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shashican17/leetcode_submissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/shashican17/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
+| [0621-task-scheduler](https://github.com/shashican17/leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/shashican17/leetcode_submissions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/shashican17/leetcode_submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shashican17/leetcode_submissions/tree/master/1046-last-stone-weight) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/shashican17/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashican17/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shashican17/leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/shashican17/leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0981-time-based-key-value-store](https://github.com/shashican17/leetcode_submissions/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shashican17/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashican17/leetcode_submissions/tree/master/0242-valid-anagram) |
+| [0621-task-scheduler](https://github.com/shashican17/leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/shashican17/leetcode_submissions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/shashican17/leetcode_submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/shashican17/leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shashican17/leetcode_submissions/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/shashican17/leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashican17/leetcode_submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/shashican17/leetcode_submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shashican17/leetcode_submissions/tree/master/1046-last-stone-weight) |
@@ -322,4 +326,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/shashican17/leetcode_submissions/tree/master/0973-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/shashican17/leetcode_submissions/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/shashican17/leetcode_submissions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
