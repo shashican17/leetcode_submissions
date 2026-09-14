@@ -10,7 +10,8 @@ public:
         }
 
         for(auto it : mp){
-            if(it.second.size() == 3 && it.second[1] - it.second[0] == it.second[2] - it.second[1]){
+            vector<int> & vec = it.second;
+            if(vec.size() == 3 && vec[1] - vec[0] == vec[2] - vec[1]){
                 res++;
             }
         }
