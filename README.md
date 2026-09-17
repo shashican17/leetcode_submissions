@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/shashican17/leetcode_submissions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/shashican17/leetcode_submissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shashican17/leetcode_submissions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/shashican17/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shashican17/leetcode_submissions/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/shashican17/leetcode_submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Design
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/shashican17/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shashican17/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shashican17/leetcode_submissions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shashican17/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashican17/leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Manacher
 |  |
@@ -354,4 +356,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shashican17/leetcode_submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shashican17/leetcode_submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
