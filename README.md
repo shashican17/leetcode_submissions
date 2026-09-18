@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/shashican17/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
 | [0621-task-scheduler](https://github.com/shashican17/leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/shashican17/leetcode_submissions/tree/master/0853-car-fleet) |
+| [0912-sort-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shashican17/leetcode_submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shashican17/leetcode_submissions/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/shashican17/leetcode_submissions/tree/master/1929-concatenation-of-array) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/shashican17/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/shashican17/leetcode_submissions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shashican17/leetcode_submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/shashican17/leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/shashican17/leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/shashican17/leetcode_submissions/tree/master/0853-car-fleet) |
+| [0912-sort-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shashican17/leetcode_submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashican17/leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/shashican17/leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/shashican17/leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashican17/leetcode_submissions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shashican17/leetcode_submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shashican17/leetcode_submissions/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
@@ -197,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shashican17/leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -360,4 +365,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shashican17/leetcode_submissions/tree/master/0070-climbing-stairs) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
