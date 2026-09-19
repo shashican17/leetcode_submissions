@@ -5,7 +5,7 @@ public:
         for(int i : stones){
             maxHeap.push(i);
         }
-        while(maxHeap.size() >= 2){
+        while(maxHeap.size() >= 2 && maxHeap.top() != 0){
             int t1 = maxHeap.top();
             maxHeap.pop();
             int t2 = maxHeap.top();
