@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/shashican17/leetcode_submissions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/shashican17/leetcode_submissions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shashican17/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/shashican17/leetcode_submissions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shashican17/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shashican17/leetcode_submissions/tree/master/0217-contains-duplicate) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shashican17/leetcode_submissions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shashican17/leetcode_submissions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/shashican17/leetcode_submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/shashican17/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
