@@ -17,7 +17,7 @@ public:
         return res;
     }
 
-    int help(TreeNode* root, int& res){
+    int help(TreeNode* root, int &res){
         if(!root){
             return 0;
         }
