@@ -15,22 +15,22 @@ public:
         if(!root){
             return false;
         }
-
         if(!subRoot){
             return true;
         }
-        if(sameTree(root, subRoot)){
+
+        if(isSame(root, subRoot)){
             return true;
         }
 
         return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
     }
 
-    bool sameTree(TreeNode* p, TreeNode* q){
-        if(!p || !q){
-            return p == q;
+    bool isSame(TreeNode* root, TreeNode* subRoot){
+        if(!root || !subRoot){
+            return root == subRoot;
         }
 
-        return (p->val == q->val) && sameTree(p->left, q->left) && sameTree(p->right, q->right);
+        return (root->val == subRoot->val) && (isSame(root->left, subRoot->left)) && (isSame(root->right, subRoot->right));
     }
 };
