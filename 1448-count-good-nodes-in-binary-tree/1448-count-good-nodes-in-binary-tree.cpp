@@ -10,23 +10,23 @@
  * };
  */
 class Solution {
-    void help(TreeNode* root, int maxi, int &count){
+    void help(TreeNode* root, int& count, int maxVal){
         if(!root){
             return;
         }
 
-        if(root->val >= maxi){
-            maxi = root->val;
+        if(root->val >= maxVal){
             count++;
+            maxVal = root->val;
         }
-        help(root->left, maxi, count);
-        help(root->right, maxi, count);
+        help(root->left, count, maxVal);
+        help(root->right, count, maxVal);
     }
 public:
     int goodNodes(TreeNode* root) {
-        int maxi = INT_MIN;
+        int maxVal = INT_MIN;
         int count = 0;
-        help(root, maxi, count);
+        help(root, count, maxVal);
         return count;
     }
 };
