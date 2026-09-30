@@ -10,13 +10,14 @@
  * };
  */
 class Solution {
-    bool help(TreeNode* root, long long minVal, long long maxVal){
+    bool help(TreeNode* root, long minVal, long maxVal){
         if(!root){
             return true;
         }
         if(root->val <= minVal || root->val >= maxVal){
             return false;
         }
+
         return help(root->left, minVal, root->val) && help(root->right, root->val, maxVal);
     }
 public:
