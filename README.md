@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/shashican17/leetcode_submissions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/shashican17/leetcode_submissions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shashican17/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashican17/leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/shashican17/leetcode_submissions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shashican17/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/shashican17/leetcode_submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/shashican17/leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/shashican17/leetcode_submissions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashican17/leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/shashican17/leetcode_submissions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0912-sort-an-array) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/shashican17/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shashican17/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/shashican17/leetcode_submissions/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashican17/leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/shashican17/leetcode_submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shashican17/leetcode_submissions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/shashican17/leetcode_submissions/tree/master/0146-lru-cache) |
@@ -225,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/shashican17/leetcode_submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shashican17/leetcode_submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashican17/leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashican17/leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shashican17/leetcode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -281,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/shashican17/leetcode_submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shashican17/leetcode_submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shashican17/leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashican17/leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shashican17/leetcode_submissions/tree/master/0144-binary-tree-preorder-traversal) |
