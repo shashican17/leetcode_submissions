@@ -21,9 +21,9 @@ public:
             TreeNode* node = q.front();
             q.pop();
             if(node){
-                str += to_string(node->val);
                 q.push(node->left);
                 q.push(node->right);
+                str += to_string(node->val);
             }else{
                 str += "NULL";
             }
@@ -36,18 +36,15 @@ public:
 
     // Decodes your encoded data to tree.
     TreeNode* deserialize(string data) {
-        if(data.empty()){
-            return NULL;
-        }
         vector<string> vals = split(data, ',');
         if(vals.empty() || vals[0] == "NULL"){
-            return NULL;
+            return nullptr;
         }
-        TreeNode* root = new TreeNode(stoi(vals[0]));
         queue<TreeNode*> q;
+        TreeNode* root = new TreeNode(stoi(vals[0]));
         q.push(root);
         int i = 1;
-        while(!q.empty() && i < vals.size()){
+        while(i < vals.size() && !q.empty()){
             TreeNode* node = q.front();
             q.pop();
             if(vals[i] != "NULL"){
