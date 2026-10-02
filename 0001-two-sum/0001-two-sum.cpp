@@ -4,9 +4,8 @@ public:
         int n = nums.size();
         map<int, int> mp;
         for(int i=0;i<n;i++){
-            int val = target - nums[i];
-            if(mp.find(val) != mp.end()){
-                return {i, mp[val]};
+            if(mp.find(target - nums[i]) != mp.end()){
+                return {mp[target-nums[i]], i};
             }
             mp[nums[i]] = i;
         }
