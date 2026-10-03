@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/shashican17/leetcode_submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shashican17/leetcode_submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/shashican17/leetcode_submissions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/shashican17/leetcode_submissions/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/shashican17/leetcode_submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shashican17/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shashican17/leetcode_submissions/tree/master/0053-maximum-subarray) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/shashican17/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shashican17/leetcode_submissions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/shashican17/leetcode_submissions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/shashican17/leetcode_submissions/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
