@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashican17/leetcode_submissions/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/shashican17/leetcode_submissions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/shashican17/leetcode_submissions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shashican17/leetcode_submissions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shashican17/leetcode_submissions/tree/master/0070-climbing-stairs) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shashican17/leetcode_submissions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/shashican17/leetcode_submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shashican17/leetcode_submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shashican17/leetcode_submissions/tree/master/0136-single-number) |
