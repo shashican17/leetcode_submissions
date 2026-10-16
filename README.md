@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/shashican17/leetcode_submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/shashican17/leetcode_submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shashican17/leetcode_submissions/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shashican17/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashican17/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shashican17/leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/shashican17/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shashican17/leetcode_submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/shashican17/leetcode_submissions/tree/master/0079-word-search) |
+| [0208-implement-trie-prefix-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shashican17/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/shashican17/leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shashican17/leetcode_submissions/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/shashican17/leetcode_submissions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shashican17/leetcode_submissions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -483,4 +486,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/shashican17/leetcode_submissions/tree/master/0182-duplicate-emails) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
