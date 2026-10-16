@@ -1,58 +1,43 @@
 class Trie {
-    struct Node{
-        Node* links[26];
-        bool flag = false;
-        bool containsKey(char ch){
-            return (links[ch - 'a'] != NULL);
-        }
-        void put(char ch, Node* node){
-            links[ch - 'a'] = node;
-        }
-        Node* get(char ch){
-            return links[ch - 'a'];
-        }
-        void setEnd(){
-            flag = true;
-        }
-        bool isEnd(){
-            return flag;
-        }
+    struct TrieNode{
+        map<char, TrieNode*> children;
+        bool endOfWord = false;
     };
 public:
-    Node *root;
+    TrieNode* root;
     Trie() {
-        root = new Node();
+        root = new TrieNode();
     }
     
     void insert(string word) {
-        Node* node = root;
-        for(int i=0;i<word.size();i++){
-            if(!node->containsKey(word[i])){
-                node->put(word[i], new Node());
+        TrieNode* curr = root;
+        for(char c : word){
+            if(curr->children.find(c) == curr->children.end()){
+                curr->children[c] = new TrieNode();
             }
-            node = node->get(word[i]);
+            curr = curr->children[c];
         }
-        node->setEnd();
+        curr->endOfWord = true;
     }
     
     bool search(string word) {
-        Node* node = root;
-        for(int i=0;i<word.size();i++){
-            if(!node->containsKey(word[i])){
+        TrieNode* curr = root;
+        for(char c : word){
+            if(curr->children.find(c) == curr->children.end()){
                 return false;
             }
-            node = node->get(word[i]);
+            curr = curr->children[c];
         }
-        return node->isEnd();
+        return curr->endOfWord;
     }
     
     bool startsWith(string prefix) {
-        Node* node = root;
-        for(int i=0;i<prefix.size();i++){
-            if(!node->containsKey(prefix[i])){
+        TrieNode* curr = root;
+        for(char c : prefix){
+            if(curr->children.find(c) == curr->children.end()){
                 return false;
             }
-            node = node->get(prefix[i]);
+            curr = curr->children[c];
         }
         return true;
     }
