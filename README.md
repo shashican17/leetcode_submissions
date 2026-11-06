@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/shashican17/leetcode_submissions/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/shashican17/leetcode_submissions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/shashican17/leetcode_submissions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/shashican17/leetcode_submissions/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/shashican17/leetcode_submissions/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/shashican17/leetcode_submissions/tree/master/1929-concatenation-of-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashican17/leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/shashican17/leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shashican17/leetcode_submissions/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/shashican17/leetcode_submissions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/shashican17/leetcode_submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shashican17/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/shashican17/leetcode_submissions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/shashican17/leetcode_submissions/tree/master/0994-rotting-oranges) |
 ## Quickselect
 |  |
 | ------- |
