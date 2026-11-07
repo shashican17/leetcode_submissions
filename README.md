@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/shashican17/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shashican17/leetcode_submissions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/shashican17/leetcode_submissions/tree/master/0287-find-the-duplicate-number) |
+| [0542-01-matrix](https://github.com/shashican17/leetcode_submissions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/shashican17/leetcode_submissions/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/shashican17/leetcode_submissions/tree/master/0733-flood-fill) |
 | [0853-car-fleet](https://github.com/shashican17/leetcode_submissions/tree/master/0853-car-fleet) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shashican17/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/shashican17/leetcode_submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shashican17/leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shashican17/leetcode_submissions/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/shashican17/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shashican17/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shashican17/leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/shashican17/leetcode_submissions/tree/master/0542-01-matrix) |
 ## Manacher
 |  |
 | ------- |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/shashican17/leetcode_submissions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/shashican17/leetcode_submissions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shashican17/leetcode_submissions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/shashican17/leetcode_submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shashican17/leetcode_submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shashican17/leetcode_submissions/tree/master/0994-rotting-oranges) |
 ## Quickselect
