@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/shashican17/leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/shashican17/leetcode_submissions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/shashican17/leetcode_submissions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/shashican17/leetcode_submissions/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/shashican17/leetcode_submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shashican17/leetcode_submissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shashican17/leetcode_submissions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/shashican17/leetcode_submissions/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shashican17/leetcode_submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/shashican17/leetcode_submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shashican17/leetcode_submissions/tree/master/1020-number-of-enclaves) |
@@ -405,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/shashican17/leetcode_submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shashican17/leetcode_submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shashican17/leetcode_submissions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/shashican17/leetcode_submissions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/shashican17/leetcode_submissions/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashican17/leetcode_submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String Matching
@@ -523,4 +526,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shashican17/leetcode_submissions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/shashican17/leetcode_submissions/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/shashican17/leetcode_submissions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/shashican17/leetcode_submissions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
